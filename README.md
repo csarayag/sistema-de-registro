@@ -3,4 +3,4 @@
 
 Para utilizar el sistema debes tener el paquete NPM
 
- '''install npm react'''
+ ```nstall npm react```
